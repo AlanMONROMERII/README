@@ -1,2 +1,2 @@
 # README
-($/THETP_I$)
+X<-C(1,10)
